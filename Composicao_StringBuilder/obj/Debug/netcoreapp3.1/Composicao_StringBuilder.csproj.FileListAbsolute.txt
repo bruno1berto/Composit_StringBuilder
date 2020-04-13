@@ -1,0 +1,13 @@
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\bin\Debug\netcoreapp3.1\Composicao_StringBuilder.exe
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\bin\Debug\netcoreapp3.1\Composicao_StringBuilder.deps.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\bin\Debug\netcoreapp3.1\Composicao_StringBuilder.runtimeconfig.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\bin\Debug\netcoreapp3.1\Composicao_StringBuilder.runtimeconfig.dev.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\bin\Debug\netcoreapp3.1\Composicao_StringBuilder.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\bin\Debug\netcoreapp3.1\Composicao_StringBuilder.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\obj\Debug\netcoreapp3.1\Composicao_StringBuilder.csprojAssemblyReference.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\obj\Debug\netcoreapp3.1\Composicao_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\obj\Debug\netcoreapp3.1\Composicao_StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\obj\Debug\netcoreapp3.1\Composicao_StringBuilder.AssemblyInfo.cs
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\obj\Debug\netcoreapp3.1\Composicao_StringBuilder.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\obj\Debug\netcoreapp3.1\Composicao_StringBuilder.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\Composicao_StringBuilder\Composicao_StringBuilder\obj\Debug\netcoreapp3.1\Composicao_StringBuilder.genruntimeconfig.cache
