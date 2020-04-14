@@ -29,10 +29,17 @@ namespace Composicao_StringBuilder.Entities
         }
         public void RemoveLike()
         {
-            Likes -= 1;
+            if (Likes == 0)
+            {
+                Console.WriteLine("Operação inválida no momento.");
+            }
+            else
+            {
+                Likes -= 1;
+            }
         }
 
-        public static void AddComment(Comment coment)
+        public void AddComment(Comment coment)
         {
             Comments.Add(coment);
         }
@@ -40,6 +47,30 @@ namespace Composicao_StringBuilder.Entities
         public void RemoveComment(Comment comment)
         {
             Comments.Remove(comment);
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(Title);
+            sb.Append(Likes);
+            sb.Append(" Like(s) - ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine(Content);
+            int nLikes = 0;
+            foreach (Comment c in Comments)
+            {
+                nLikes += 1;
+            }
+
+            sb.Append(nLikes);
+            sb.AppendLine(" Comment(s):");
+
+            foreach (Comment c in Comments)
+            {
+                sb.AppendLine(c.Text);
+            }
+            return sb.ToString();
         }
     }
 }
